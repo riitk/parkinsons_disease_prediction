@@ -52,7 +52,9 @@ The dataset consists of 195 rows and 24 columns. Each row represents a different
 
 - **Accuracy Score**: 0.83
 - **Confusion Matrix**: 
+
 [[ 5 10]
+
 [ 0 44]]
 
 ## Conclusion
